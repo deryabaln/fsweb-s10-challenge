@@ -5,6 +5,7 @@ import PostList from "./components/PostList";
 import Img from "./assets/gratitude.jpg";
 
 export default function App() {
+
   return (
     <div>
       <div className="bg-white shadow mb-8">
